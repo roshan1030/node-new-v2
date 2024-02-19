@@ -35,7 +35,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <div class="container">
-        <h1>Hello, Dockerized Node.js App!</h1>
+        <h1>Hi, Dockerized Node.js App!</h1>
         <p>Welcome to my Dockerized Node.js application.</p>
       </div>
     </body>
